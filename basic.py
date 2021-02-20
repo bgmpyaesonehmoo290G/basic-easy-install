@@ -190,7 +190,7 @@ def slowprint(s):
         sys.stdout.flush()
         time.sleep(8. / 100)
 print("\033[95m+-------------------------------------------------+")
-slowprint('''\033[95m|           We are INNWA Family |''')
+slowprint('''\033[95m|           We are INNWA Family              |''')
 print("+-------------------------------------------------+")
 
 input("\n\nPress the enter key to exit : ")
