@@ -112,7 +112,7 @@ print (''' \033[95m
 +--------------------------------------+
  Install All Basic Packages |
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-|  By Ju Li O |
+|  B😼y Pyae Sone Hmoo😼 |
 **************************************''')
 
 slowprint(''' \033[93m
@@ -190,7 +190,7 @@ def slowprint(s):
         sys.stdout.flush()
         time.sleep(8. / 100)
 print("\033[95m+-------------------------------------------------+")
-slowprint('''\033[95m|           We are INNWA Family              |''')
+slowprint('''\033[95m|       😼    We are Myanmar 📶             |''')
 print("+-------------------------------------------------+")
 
 input("\n\nPress the enter key to exit : ")
